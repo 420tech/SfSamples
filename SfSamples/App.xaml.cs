@@ -3,7 +3,7 @@
 public partial class App : Application
 {
 
-	private string SFLicenseKey = "OTY0NTEwQDMyMzAyZTM0MmUzMERkd0xtSnl3OEpmbzYrdURtMlk2ODROWmlxRkZ3UnZ2RmZVdWZxbUNsaTg9";
+	private string SFLicenseKey = "insert license key here";
 
 
 	public App()
