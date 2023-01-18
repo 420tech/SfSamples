@@ -1,0 +1,9 @@
+﻿global using CommunityToolkit.Maui;
+global using CommunityToolkit.Mvvm.ComponentModel;
+global using SfSamples.Models;
+global using SfSamples.ViewModels;
+global using SfSamples.Views;
+global using Syncfusion.Maui.Core.Hosting;
+global using System.Collections.ObjectModel;
+global using System.Diagnostics;
+global using System.Threading.Tasks;
